@@ -1,1 +1,1 @@
-export const DOMAIN = 'https://backend-wanderwise.vercel.app/'
+export const DOMAIN = 'http://localhost:5006'
